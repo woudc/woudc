@@ -52,3 +52,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# woudc
+notebooks/.ipynb_checkpoints/
