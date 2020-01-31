@@ -8,7 +8,7 @@ A collection of data centre workflows implemented as
 Setting up a local environment:
 
 ```bash
-virtualenv woudc
+python3 -m venv woudc
 cd woudc
 . bin/activate  # yes, that is a period
 git clone https://github.com/woudc/woudc.git
