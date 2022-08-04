@@ -55,3 +55,6 @@ target/
 
 # woudc
 notebooks/.ipynb_checkpoints/
+
+# draw.io backups
+*.bkp
