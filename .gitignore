@@ -58,3 +58,4 @@ notebooks/.ipynb_checkpoints/
 
 # draw.io backups
 *.bkp
+.DS_Store
